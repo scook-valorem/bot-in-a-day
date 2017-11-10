@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /
 ---
 
 ## ML & Intelligent BOT in a Day workshop
