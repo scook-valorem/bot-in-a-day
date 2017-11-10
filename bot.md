@@ -11,3 +11,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus pharetra puru
 ### Nullam 
 
 1. Euismod
+
+> **Up Next**: [Create your first LUIS app](luis.html)
