@@ -7,7 +7,7 @@ permalink: index.html
 
 Lorem Ipsum
 
-- [Installation and Setup](setup/)
+- [Installation and Setup](setup.html)
 - [Create a bot with the Azure Bot Service]()
 - [Create your first LUIS app]()
 = [Automated ARM Deployment]()
