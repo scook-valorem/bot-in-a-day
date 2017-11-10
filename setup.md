@@ -19,3 +19,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec posuere o
 ### Create a new Data Science Virtual Machine
 
 1. Consectetur
+
+> **Up Next**: [Create a bot with the Azure Bot Service](bot.html)
