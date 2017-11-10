@@ -257,3 +257,18 @@ ul {
     padding-top: 4px;
     word-wrap: break-word;
 }
+blockquote {
+    background-color: #d9f6ff;
+    border-color: #bff1ff;
+    color: inherit;
+    font-size: smaller;
+    padding: 20px;
+    margin-top: 15px;
+    border-radius: 6px;
+}
+blockquote:before {
+    content: "\0024D8 Note";
+    color: #0094bf;
+    font-size: larger;
+    font-family: segoe-ui_light, "Segoe UI Light", "Segoe WP", "Helvetica Neue", Helvetica, sans-serif;
+}
