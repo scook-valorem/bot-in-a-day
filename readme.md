@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /
+permalink: index.html
 ---
 
 ## Machine Learning & Intelligent Bot in a Day Workshop
