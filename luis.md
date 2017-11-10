@@ -11,3 +11,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer placerat ut nun
 ### Fusce
 
 1. Ullamcorper 
+
+> **Up Next**: [Automated ARM Deployment](arm.html)
