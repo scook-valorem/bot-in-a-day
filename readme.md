@@ -1,1 +1,3 @@
-## Azure Machine Learning & Intelligent Bot in a Day Workshop
+---
+layout: page
+---
