@@ -13,6 +13,6 @@ Cras id blandit lorem, et blandit massa. Vestibulum rhoncus velit vitae fringill
 ### Steps
 
 - [Installation and Setup](setup.html)
-- [Create a bot with the Azure Bot Service](bot.html)
+- [Create a Bot with the Azure Bot Service](bot.html)
 - [Create your first LUIS app](luis.html)
 - [Automated ARM Deployment](arm.html)
