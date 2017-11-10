@@ -11,3 +11,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus consectetur ele
 ### Pellentesque
 
 1. Cras
+
+> **Congratulations!** You have completed all of the exercises for today.
