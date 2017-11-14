@@ -28,7 +28,7 @@ Creating your knowledge base is as simple as pointing the QnA Maker tool to the 
 
 1. Once logged in, select the **Create new service** option.
 
-    ![Top navigation](./media/myKbService.png)
+    ![Top navigation](./media/mykbservice.png)
 
 2. Fill out the form by using the following values:
 
@@ -40,11 +40,11 @@ Creating your knowledge base is as simple as pointing the QnA Maker tool to the 
 
     - **Starting from Scartch**: Skip this section
 
-    ![Page for adding sources](./media/createKbService.png)
+    ![Page for adding sources](./media/createkbservice.png)
 
 3. Click the **Create** button to upload your PDF file, parse the contents and create a new knowledge base.
 
-    ![Create button](./media/createKbService2.png)
+    ![Create button](./media/createkbservice2.png)
 
 ### Train the Knowledge Base
 
@@ -98,11 +98,11 @@ Once satisfied with the content and relevance of your knowledge base, you can pr
 
 1. Before the final publish, you can preview the changes that will affect the knowledge base on final publish. Download the diff file to see what changes will be published.
 
-    ![Download Diff](./media/kbDownloadDiff.png)
+    ![Download Diff](./media/kbdownloaddiff.png)
 
 1. Once satisfied with the preview, click the **Publish** button.
 
-    ![Publish Succeeded](./media/kbSuccess.png)
+    ![Publish Succeeded](./media/kbsuccess.png)
 
 1. Record the information displayed in the **Sample HTTP request** section. This information will be used to validate your service.
 
