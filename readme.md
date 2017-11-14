@@ -6,15 +6,29 @@ permalink: index.html
 
 ## Hands-On Workshop
 
-In this workshop, we will create a *Data Science Virtual Machine* in Azure and use it to work with services such as:
+In this workshop, we will cover the Microsoft Cognitive and Bot offerings through various demos and presentations. We will also get an opportunity to work hands-on with these offerings by writing code in Python for NLP scenarios.
 
-- [Machine Learning](https://azure.microsoft.com/en-us/overview/machine-learning/)
-- [Cognitive Services](https://azure.microsoft.com/en-us/services/cognitive-services/)
-- [Bot Service](https://docs.microsoft.com/en-us/bot-framework/azure-bot-service-overview)
+At the end of the session participants will have a good sense of Microsoft offerings for creating Bots, leveraging our cognitive services and using Python to build simple NLP models.
 
-### Steps
+## Agenda
 
-1. [Installation and Setup](setup.html)
-1. [Create a Bot with the Azure Bot Service](bot.html)
-1. [Create your first LUIS app](luis.html)
-1. [Automated ARM Deployment](arm.html)
+| Topic | Activity | Timing |
+| --- | --- | --- |
+| Installation and Setup of Azure Machine Learning Workbench and Azure Subscription (Pre-requisite) | | 30 minutes |
+| | **Hands-On Exercise**: [Create a Free Microsoft Azure Account and a Data Science Virtual Machine: ](setup.html) | |
+| Python and NLP Examples Using Azure Machine Learning Workbench | | 120 minutes |
+| | **Presentation**: []() | |
+| | **Topics & Demos**: NLP overview & background, Data Pre-processing/Cleaning, Part of Speech Tagging and Information Extraction, Question Answering, Text Summarization, Sentiment Analysis and Semantics | |
+| Break | | 30 mins |
+| Cognitive Services, Bot services for LUIS, and QNA Maker | | 60 minutes |
+| | **Presentation**: []() | |
+| | **Topics & Demos**: Cognitive Services, QNA Maker, LUIS Litware Bot, [Cortana Intelligence Gallery](https://gallery.cortanaintelligence.com/) | |
+| Capstone Project | | 60 minutes |
+| | **Self-Paced Option**: Build a Simple Chat Bot with LUIS | |
+| | **Self-Paced Option**: Use the Python/AML Workbench to build a demo project | |
+| | **Hands-On Exercise Option**: [Create a Bot with the Azure Bot Service](bot.html) | |
+| | **Hands-On Exercise Option**: [Create your first LUIS app](luis.html) | |
+| | **Hands-On Exercise Option**: [Automated ARM Deployment](arm.html) | |
+| Closing | | 15 minutes |
+| | **Topics & Demos**: Cleaning up your Subscription | |
+| | **Hands-On Exercise**: [Azure Resource Group Cleanup](cleanup.html) | |
