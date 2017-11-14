@@ -42,7 +42,7 @@ To get started, we will create an instance of the bot service.
 
 Now that our bot service is ready, we can create a bot using the service.
 
-1. On the **resource** blade, choose the programming language that you want to use to develop your bot.  
+1. On the **Bot Service** blade, choose the programming language that you want to use to develop your bot.  
 
 	![language](./media/azure-bot-service-coding-language.png)  
 
