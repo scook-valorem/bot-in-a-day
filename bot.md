@@ -60,9 +60,13 @@ We will need to create authentication credentials for our new bot.
 
 1. Click **Create Microsoft App ID and password**.  
 
+    > You may be prompted to authenticate at this point.
+
     ![create app id](./media/azure-bot-service-create-app-id.png)  
 
-1. On the page that opens in a new browser tab, click **Generate an app password to continue**.
+1. On the page that opens in a new browser tab, record the **App name** and **App ID** values.
+
+1. Click **Generate an app password to continue**.
 
 1. Copy and securely store the password that is shown, and then click **Ok**.
 
