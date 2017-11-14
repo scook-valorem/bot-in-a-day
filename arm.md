@@ -137,8 +137,6 @@ We can finally create a more complex Cortana Intelligence Suite ARM Template (<h
 
 1. Click the **Resource groups** link in the Azure Portal navigation bar and select the **CapitalOneWITComplex** resource group.
 
-1. Select the single **Web App** resource within the resource group.
-
-1. Click the **Browser** button at the top of the **Web App** resource blade.
+1. View the various resources deployed as part of this ARM template.
 
 > **Congratulations!** You have completed all of the exercises for today.
