@@ -28,7 +28,7 @@ At the end of the session participants will have a good sense of Microsoft offer
 | | **Self-Paced Option**: Use the Python/AML Workbench to build a demo project | |
 | | **Hands-On Exercise Option**: [Create a Bot with the Azure Bot Service](bot.html) | |
 | | **Hands-On Exercise Option**: [Create your first LUIS App](luis.html) | |
-| | **Hands-On Exercise Option**: [Create a QNA Maker Service](qna.html) | |
+| | **Hands-On Exercise Option**: [Create a QNA Maker Knowledge Base](qna.html) | |
 | | **Hands-On Exercise Option**: [Automated ARM Deployment](arm.html) | |
 | Closing | | 15 minutes |
 | | **Topics & Demos**: Cleaning up your Subscription | |
