@@ -58,7 +58,7 @@ The Microsoft Data Science Virtual Machine is a Windows Azure virtual machine (V
 
 	- **Subscription**: If you have more than one subscription, select the one on which the machine is to be created and billed.
 
-	- **Resource Group**: You can create a new one or use an existing group.
+	- **Resource Group**: Create a new resource group named **CapitalOneWITVM**.
 
 	- **Location**: Select the data center that is most appropriate. Usually it is the data center that has most of your data or is closest to your physical location for fastest network access.
 
