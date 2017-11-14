@@ -1,18 +1,18 @@
 <nav class="toc">
     <ul>
-        <li class="{% if page.url == "/index.html" or page.url == "/" or page.url == "" %}bg-note{% endif %}">
+        <li{% if page.url == "/index.html" or page.url == "/" or page.url == "" %} class="bg-note"{% endif %}>
             <a href="index.html">Home</a>
         </li>
-        <li class="{% if page.url == "/setup.html" %}bg-note{% endif %}">
+        <li{% if page.url == "/setup.html" %} class="bg-note"{% endif %}>
             <a href="setup.html">Installation &amp; Setup</a>
         </li>
-        <li class="{% if page.url == "/bot.html" %}bg-note{% endif %}">
+        <li{% if page.url == "/bot.html" %} class="bg-note"{% endif %}>
             <a href="bot.html">Create a Bot</a>
         </li>
-        <li class="{% if page.url == "/luis.html" %}bg-note{% endif %}">
+        <li{% if page.url == "/luis.html" %} class="bg-note"{% endif %}>
             <a href="luis.html">Create a LUIS app</a>
         </li>
-        <li class="{% if page.url == "/arm.html" %}bg-note{% endif %}">
+        <li{% if page.url == "/arm.html" %} class="bg-note"{% endif %}>
             <a href="arm.html">Automate with ARM</a>
         </li>
     </ul>
