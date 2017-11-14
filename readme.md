@@ -6,13 +6,15 @@ permalink: index.html
 
 ## Hands-On Workshop
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla mi enim, lacinia quis scelerisque sit amet, tincidunt quis ante. Vivamus ullamcorper fringilla erat id maximus. Fusce vitae velit ut diam auctor mattis. Aliquam erat volutpat. Nam lacinia ex ac urna feugiat, ac lobortis neque varius. Morbi luctus non dui eget porta. Etiam sed sem rutrum, laoreet felis a, posuere leo. Pellentesque sodales ante ligula, vel faucibus diam iaculis et. Fusce fermentum porttitor libero, nec molestie eros molestie at. In ultrices condimentum dui, vel mollis urna.
+In this workshop, we will create a *Data Science Virtual Machine* in Azure and use it to work with services such as:
 
-Cras id blandit lorem, et blandit massa. Vestibulum rhoncus velit vitae fringilla lacinia. Cras eu cursus turpis. Vestibulum metus lectus, auctor vel aliquam vel, sagittis id elit. Suspendisse dictum velit accumsan maximus commodo. Curabitur euismod ut mauris at dignissim. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean interdum malesuada urna, id egestas massa gravida sit amet.
+- [Machine Learning](https://azure.microsoft.com/en-us/overview/machine-learning/)
+- [Cognitive Services](https://azure.microsoft.com/en-us/services/cognitive-services/)
+- [Bot Service](https://docs.microsoft.com/en-us/bot-framework/azure-bot-service-overview)
 
 ### Steps
 
-- [Installation and Setup](setup.html)
-- [Create a Bot with the Azure Bot Service](bot.html)
-- [Create your first LUIS app](luis.html)
-- [Automated ARM Deployment](arm.html)
+1. [Installation and Setup](setup.html)
+1. [Create a Bot with the Azure Bot Service](bot.html)
+1. [Create your first LUIS app](luis.html)
+1. [Automated ARM Deployment](arm.html)
