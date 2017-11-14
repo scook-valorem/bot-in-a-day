@@ -1,19 +1,29 @@
 <nav class="toc">
     <ul>
         <li class="{% if page.url == "/index.html" or page.url == "/" or page.url == "" %}bg-note{% endif %}">
-            <a href="index.html">Home</a>
+            <a href="index.html" class="{% if page.url == "/index.html" or page.url == "/" or page.url == "" %}text-light{% endif %}">
+                Home
+            </a>
         </li>
         <li class="{% if page.url == "/setup.html" %}bg-note{% endif %}">
-            <a href="setup.html">Installation &amp; Setup</a>
+            <a href="setup.html" class="{% if page.url == "/setup.html" %}text-light{% endif %}">
+                Installation &amp; Setup
+            </a>
         </li>
         <li class="{% if page.url == "/bot.html" %}bg-note{% endif %}">
-            <a href="bot.html">Create a Bot</a>
+            <a href="bot.html" class="{% if page.url == "/bot.html" %}text-light{% endif %}">
+                Create a Bot
+            </a>
         </li>
         <li class="{% if page.url == "/luis.html" %}bg-note{% endif %}">
-            <a href="luis.html">Create a LUIS app</a>
+            <a href="luis.html" class="{% if page.url == "/luis.html" %}text-light{% endif %}">
+                Create a LUIS App
+            </a>
         </li>
         <li class="{% if page.url == "/arm.html" %}bg-note{% endif %}">
-            <a href="arm.html">Automate with ARM</a>
+            <a href="arm.html" class="{% if page.url == "/arm.html" %}text-light{% endif %}">
+                Automate with ARM
+            </a>
         </li>
     </ul>
 </nav>
