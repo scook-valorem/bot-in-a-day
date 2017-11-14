@@ -1,0 +1,23 @@
+{
+    "$schema": "http://schema.management.azure.com/schemas/2014-04-01-preview/deploymentTemplate.json#",
+    "contentVersion": "1.0.0.0",
+    "resources": [
+        {
+            "name": "[concat('bot', uniqueString(resourceGroup().id))]",
+            "type": "Microsoft.Web/sites",
+            "kind": "functionapp,botapp",
+            "apiVersion": "2016-03-01",
+            "properties": {
+                "siteConfig": {
+                    "appSettings": [
+                        {
+                            "name": "WEBSITE_NODE_DEFAULT_VERSION",
+                            "value": "6.5.0"
+                        }
+                    ]
+                }
+            },
+            "location": "[resourceGroup().location]"
+        }
+    ]
+}
