@@ -23,8 +23,10 @@ To get started, we will create an instance of the bot service.
     - Set **App name** to your bot’s name. The name is used as the subdomain when your bot is deployed to the cloud (for example, *mybasicbot*.azurewebsites.net).
 
     - Select the subscription to use.
+    
+    - Create a new [resource group](https://azure.microsoft.com/en-us/documentation/articles/resource-group-overview/) named **CapitalOneWITBot**.
 
-    - Select the [resource group](https://azure.microsoft.com/en-us/documentation/articles/resource-group-overview/), [hosting plan](azure-bot-service-hosting-plan.md), and [location](https://azure.microsoft.com/en-us/regions/).  
+    - Select the [hosting plan](azure-bot-service-hosting-plan.md) and [location](https://azure.microsoft.com/en-us/regions/).  
 
     ![Bot Service blade](./media/azure-bot-service-create-bot.png)
 
