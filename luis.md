@@ -76,7 +76,7 @@ You can create and manage your applications on My Apps page. You can always acce
 
 1. In the dialog box, name your application "Home Automation".
 
-	![A new app form](./media/new-app-dialog.PNG)
+	![A new app form](./media/new-app-dialog.png)
 
 1. Choose your application culture (for this Home Automation app, we’ll choose English), and then click **Create**.
 
@@ -86,25 +86,25 @@ You can create and manage your applications on My Apps page. You can always acce
 
 1. You can explore your application using the links in the left panel.
 
-	![Home Automation app created and Opened](./media/app-created-opened.PNG)
+	![Home Automation app created and Opened](./media/app-created-opened.png)
 
 1. Click on **Prebuilt domains** in the left-side navigation pane. Then click on **HomeAutomation**.
 
-	![Home Automation domain called out in prebuilt domain menu](./media/prebuilt-domain-find.PNG)
+	![Home Automation domain called out in prebuilt domain menu](./media/prebuilt-domain-find.png)
 
 1. Click **Yes** when prompted to add the **"HomeAutomation"** domain to the app.
 
-	![Home Automation domain prompt](./media/add-prebuilt-domain-dialog.PNG)
+	![Home Automation domain prompt](./media/add-prebuilt-domain-dialog.png)
 
 1. Click on **Intents** in the left-side navigation pane, and you can see that the HomeAutomation domain provides **HomeAutomation.TurnOff**, **HomeAutomation.TurnOn**, and **None** intents in your application. Each intent has sample utterances.
 
 	> **None** is an intent provided by all LUIS apps. You use it to handle utterances that don't correspond to functionality your app provides.
 
-	![Home Automation domain prompt](./media/intents.PNG)
+	![Home Automation domain prompt](./media/intents.png)
 
 1. Click on the **HomeAutomation.TurnOff** intent. You can see that the intent contains a list of utterances which are labeled with entities.
 
-	![Home Automation domain prompt](./media/utterances.PNG)
+	![Home Automation domain prompt](./media/utterances.png)
 
 1. Click on the **Labels view** and select **tokens**. This shows the text tokens that make up each labeled entity, instead of the name of the entity type.
 
@@ -112,11 +112,11 @@ You can create and manage your applications on My Apps page. You can always acce
 
 1. The first utterance is "turn off staircase." The word "off" has been labeled as the type of HomeAutomation.Operation. The word "staircase" has been labeled as the type of "HomeAutomation.Device."
 
-	![Home Automation domain prompt](./media/utterances-tokens.PNG)
+	![Home Automation domain prompt](./media/utterances-tokens.png)
 
 1. Click **Entities in use**. This shows the entities this app identifies in the utterances.
 
-	![Home Automation domain prompt](./media/entities-in-use.PNG)
+	![Home Automation domain prompt](./media/entities-in-use.png)
 
 
 ## Train & Test your LUIS App
@@ -125,7 +125,7 @@ To validate our app, we should train it. Once we've trained the app, you can tes
 
 1. Click on **Train & Test** in the left-side navigation, then click **Train application**.
 
-	![Home Automation test](./media/test-callout.PNG)
+	![Home Automation test](./media/test-callout.png)
 
 1. Type a test utterance like "Turn off the lights" into the Interactive Testing pane, and press Enter.
 
@@ -137,15 +137,15 @@ To validate our app, we should train it. Once we've trained the app, you can tes
 
 1. In this example, "Turn off the lights" is correctly identified as the top scoring intent of "HomeAutomation.TurnOff."
 
-	![Home Automation test](./media/test-prebuilt-domain-home.PNG)
+	![Home Automation test](./media/test-prebuilt-domain-home.png)
 
 1. Select **Publish App** from the left-side menu and click the **Publish** button.
 
-	![Home Automation test](./media/publish-before.PNG)
+	![Home Automation test](./media/publish-before.png)
 
 1. After you've successfully published, you can use the Endpoint URL that the **Publish App** page displays.
 
-	![Home Automation test](./media/publish.PNG)
+	![Home Automation test](./media/publish.png)
 
 1. Copy the URL, then replace the `{YOUR-KEY-HERE}` with one of the keys listed in the **Key String** column for the resource you want to use. To open this URL in your browser, set the URL parameter "&q" to your test query. For example, append `&q=turn off the living room light` to your URL, and then press Enter. The browser displays the JSON response of your HTTP endpoint.  
 
