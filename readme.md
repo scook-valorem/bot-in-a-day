@@ -21,7 +21,7 @@ At the end of the session participants will have a good sense of Microsoft offer
 | | **Topics & Demos**: NLP overview & background, Data Pre-processing/Cleaning, Part of Speech Tagging and Information Extraction, Question Answering, Text Summarization, Sentiment Analysis and Semantics | |
 | Break | | 30 mins |
 | Cognitive Services, Bot services for LUIS, and QNA Maker | | 60 minutes |
-| | **Presentation**: [presentation.pdf](presentation-cognitive_and_bot.pdf) | |
+| | **Presentation**: [presentation.pdf](assets/presentation-cognitive_and_bot.pdf) | |
 | | **Topics & Demos**: Cognitive Services, QNA Maker, LUIS Litware Bot, [Cortana Intelligence Gallery](https://gallery.cortanaintelligence.com/) | |
 | Capstone Project | | 60 minutes |
 | | **Self-Paced Option**: Build a Simple Chat Bot with LUIS | |
