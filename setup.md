@@ -40,7 +40,7 @@ The Azure free account offers $200 in credit to use on any Azure products for 30
 
 The Microsoft Data Science Virtual Machine is a Windows Azure virtual machine (VM) image pre-installed and configured with several popular tools that are commonly used for data analytics and machine learning. We will use the **Data Science Virtual Machine** for the remaining exercises today.
 
-1. Navigate to the virtual machine listing on the [Azure Portal](https://portal.azure.com/#create/microsoft-ads.windows-data-science-vmwindows2016).
+1. Navigate to the virtual machine listing on the Azure Portal: <https://portal.azure.com/#create/microsoft-ads.windows-data-science-vmwindows2016>.
 
 1. Select the **Create** button at the bottom to be taken into a wizard.
 
