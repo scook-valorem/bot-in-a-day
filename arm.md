@@ -18,12 +18,11 @@ The deployment of intelligent resources in Azure can be automated in a manner si
 
 1. On the first launch of the **Cloud Shell** you will see various prompts to configure your shell environment. Configure the following options:
 
- 	- For shell type, select the **Bash (Linux)** option.
+	- For shell type, select the **Bash (Linux)** option.
 
 	- For storage, select your preferred subscription.
 
 	- Click the **Configure** button.
-
 
 1. Select the environment drop down from the left-hand side of the shell window
 
