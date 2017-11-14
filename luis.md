@@ -151,4 +151,4 @@ To validate our app, we should train it. Once we've trained the app, you can tes
 
 	![JSON result detects the intent TurnOff](./media/turn-off-living-room.png)
 
-> **Up Next**: [Automated ARM Deployment](arm.html)
+> **Up Next**: [Create a QNA Maker Service](qna.html)
