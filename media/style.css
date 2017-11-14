@@ -182,7 +182,7 @@ main th {
 }
 main th {
     text-align: left;
-    font-family: segoe-ui_semibold;
+    font-family: segoe-ui_semibold, "Segoe UI Semibold", "Segoe WP", "Helvetica Neue", Helvetica, sans-serif;
     font-size: 0.875rem;
     font-weight: normal;
     vertical-align: bottom;
