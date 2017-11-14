@@ -272,3 +272,6 @@ blockquote:before {
     font-size: larger;
     font-family: segoe-ui_light, "Segoe UI Light", "Segoe WP", "Helvetica Neue", Helvetica, sans-serif;
 }
+bg-note {
+    background-color: #d9f6ff;
+}
