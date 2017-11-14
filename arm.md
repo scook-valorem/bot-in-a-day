@@ -139,4 +139,4 @@ We can finally create a more complex Cortana Intelligence Suite ARM Template (<h
 
 1. View the various resources deployed as part of this ARM template.
 
-> **Congratulations!** You have completed all of the exercises for today.
+> **Up Next**: [Cleanup your Azure Subscription](cleanup.html)
