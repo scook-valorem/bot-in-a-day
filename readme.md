@@ -19,6 +19,7 @@ At the end of the session participants will have a good sense of Microsoft offer
 | Python and NLP Examples Using Azure Machine Learning Workbench | | 120 minutes |
 | | [Download Presentation](assets/presentation-natural_language_processing.pdf) | |
 | | [Jupyter Notebook](assets/notebook-movie_review.ipynb) | |
+| | [Final Jupyter Notebook(assets/notebook-movie_review_final.ipynb) | |
 | | **Topics & Demos**: NLP overview & background, Data Pre-processing/Cleaning, Part of Speech Tagging and Information Extraction, Question Answering, Text Summarization, Sentiment Analysis and Semantics | |
 | Break | | 30 mins |
 | Cognitive Services, Bot services for LUIS, and QNA Maker | | 60 minutes |
