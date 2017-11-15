@@ -8,48 +8,6 @@ permalink: luis.html
 
 Language Understanding Intelligent Service (LUIS) allows your application to understand what a person wants in their own words. LUIS uses machine learning to allow developers to build applications that can receive user input in natural language and extract meaning from it. A client application that converses with the user can pass user input to a LUIS app and receive relevant, detailed information back.
 
-### Create a Cognitive Services APIs account
-
-To use Microsoft Cognitive Service APIs, you first need to create an account in the Azure portal.
-
-1. Navigate to the [Azure Portal](https://portal.azure.com).
-
-1. Click **+ NEW**.
-
-1. Select **AI + Cognitive Services** and discover the list of availble APIs. Click on **See all** to see the entire list of Cognitive Services APIs. Click on the API of your choice to proceed.
-
-	![Select Cognitive Services APIs](./media/select-cognitive-services-apis.png)
-
-1. On the **Create** page, provide the following information:
-
-	- **Account Name:** Name of the account. We recommend using a descriptive name, for example *AFaceAPIAccount*.
-
-	- **Subscription:** Select one of the available Azure subscriptions in which you have at least Contributor permissions.
-
-	- **API Type:** Choose the Cognitive Services API you want to use. For this exercise, we will select the **Language Understanding Intelligent Service (LUIS)** option.
-
-	![Select API type](./media/list-of-apis.png)
-
-	- **Pricing tier:** The cost of your Cognitive Services account depends on the actual usage and the options you choose. For more information about pricing for each API, please refer to the [pricing pages](https://azure.microsoft.com/pricing/details/cognitive-services/).
-
-	- **Resource Group:** Create a new resource group named **CapitalOneWITCognitive**.
-
-	- **Resource Group Location:** This is required only if the API selected is global (not bound to a location). If the API is global and not bound to a location, however, you must specify a location for the resource group where the metadata associated with the Cognitive Services API account will reside. This location will have no impact on the runtime availability of your account. To learn more about resource group, please refer to [Manage Azure resources through portal](https://docs.microsoft.com/azure/azure-resource-manager/resource-group-portal).
-
-	- **Explicit acknowledgment of Online Service Terms:** In order to create an account, subscription Owners or Contributors (as defined by [Azure Role-Based Access Control](https://docs.microsoft.com/azure/active-directory/role-based-access-control-what-is)) need to explicitly acknowledge the terms that apply to Cognitive Services in [Online Service Terms](https://www.microsoft.com/en-us/Licensing/product-licensing/products.aspx).
-
-1. To pin the account to the Azure portal dashboard, click **Pin to Dashboard**.
-
-1. Click **Create** to create the account.
-
-1. After the Cognitive Services account is successfully deployed, click the tile in the dashboard to view the account information.
-
-1. Record the value of the **Endpoint URL** in the **Overview** section and keys in the **Keys** section to use when you start making API calls in your applications.
-
-	![Display account information](./media/display-account.png)
-
-	![Display account keys](./media/account-keys.png)
-
 ### Create a LUIS.ai account
 
 For this hands-on exercise, you will also need a **LUIS.ai** account.
