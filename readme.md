@@ -17,6 +17,7 @@ At the end of the session participants will have a good sense of Microsoft offer
 | Installation and Setup of Azure Machine Learning Workbench and Azure Subscription (Pre-requisite) | | 30 minutes |
 | | **Hands-On Exercise**: [Create a Free Microsoft Azure Account and a Data Science Virtual Machine: ](setup.html) | |
 | Python and NLP Examples Using Azure Machine Learning Workbench | | 120 minutes |
+| | [Download Presentation](assets/presentation-cognitive_and_bot.pdf) | |
 | | [Jupyter Notebook](assets/notebook-movie_review.ipynb) | |
 | | **Topics & Demos**: NLP overview & background, Data Pre-processing/Cleaning, Part of Speech Tagging and Information Extraction, Question Answering, Text Summarization, Sentiment Analysis and Semantics | |
 | Break | | 30 mins |
